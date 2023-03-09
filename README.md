@@ -13,6 +13,6 @@ Para a definição do protocolo de comunicação dois pontos devem ser levados e
 - Bluetooth Low Energy 2.4 GHz
 - RF Sub 1GHz
 
-O bluetooth foi descartado devido ao seu curto alcance. Um teste de alcance foi realizado com a rede sub 1 GHZ, chegando em torno de 90m:
+O bluetooth foi descartado devido ao seu curto alcance. Um teste de alcance foi realizado com a rede sub 1 GHZ, chegando em torno de 90m (próximo dos 100m que constam no datasheet):
 
 ![Alcance](https://github.com/maiteluisaa/projeto_pi3/blob/main/images/alcance.png)
