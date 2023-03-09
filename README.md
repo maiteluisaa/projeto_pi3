@@ -6,4 +6,4 @@ Para chegar a esse objetivo será utilizado uma rede de sensores sem fio. Como o
 
 ![Topologias](https://github.com/maiteluisaa/projeto_pi3/blob/main/images/Topologias.png)
 
-Para compôr a rede será utilizado o microcontrolador [CC1350 LaunchPad](https://www.ti.com/tool/LAUNCHXL-CC1350)
+Para compôr a rede será utilizado o microcontrolador [CC1350 LaunchPad](https://www.ti.com/tool/LAUNCHXL-CC1350), pois o mesmo está disponível para uso no IFSC.
