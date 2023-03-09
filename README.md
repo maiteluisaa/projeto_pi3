@@ -7,3 +7,8 @@ Para chegar a esse objetivo será utilizado uma rede de sensores sem fio. Como o
 ![Topologias](https://github.com/maiteluisaa/projeto_pi3/blob/main/images/Topologias.png)
 
 Para compôr a rede será utilizado o microcontrolador [CC1350 LaunchPad](https://www.ti.com/tool/LAUNCHXL-CC1350), pois o mesmo está disponível para uso no IFSC. Como só há 3 peças disponíveis, a rede será feita na topologia de estrela: 2 transmissores e 1 receptor.
+
+Para a definição do protocolo de comunicação dois pontos devem ser levados em consideração: consumo de energia e alcance de transmissão.
+
+- Bluetooth
+- RF Sub 1GHz
