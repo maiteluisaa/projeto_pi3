@@ -5,3 +5,5 @@ O objetivo deste projeto é realizar o protótipo de um sistema de controle de i
 Para chegar a esse objetivo será utilizado uma rede de sensores sem fio. Como o nome sugere, uma rede de sensores sem fio é uma rede sem fio de dispositivos autonômos que contém sensores distribuídos espacialmente para o monitoramento de fenômenos físicos. Uma rede de sensor sem fio pode ser encontrada de três formas: Estrela, Cluster e Árvore.
 
 ![Topologias](https://github.com/maiteluisaa/projeto_pi3/blob/main/images/Topologias.png)
+
+Para compôr a rede será utilizado o microcontrolador [CC1350 LaunchPad](https://www.ti.com/tool/LAUNCHXL-CC1350)
