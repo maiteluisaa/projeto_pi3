@@ -6,4 +6,4 @@ Para chegar a esse objetivo será utilizado de uma rede de sensor sem fio, ela p
 
 Estrela, Cluster e Árvore.
 
-![Topologias](https://github.com/maiteluisaa/projeto_pi3/images/Topologias.png)
+![Topologias](https://github.com/maiteluisaa/projeto_pi3/blob/main/images/Topologias.png)
