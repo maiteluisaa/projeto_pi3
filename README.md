@@ -10,5 +10,5 @@ Para compôr a rede será utilizado o microcontrolador [CC1350 LaunchPad](https:
 
 Para a definição do protocolo de comunicação dois pontos devem ser levados em consideração: consumo de energia e alcance de transmissão.
 
-- Bluetooth
+- Bluetooth Low Energy
 - RF Sub 1GHz
