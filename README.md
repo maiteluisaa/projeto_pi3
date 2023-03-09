@@ -16,3 +16,5 @@ Para a definição do protocolo de comunicação dois pontos devem ser levados e
 O bluetooth foi descartado devido ao seu curto alcance. Um teste de alcance foi realizado com a rede sub 1 GHZ, chegando em torno de 90m (próximo dos 100m que constam no datasheet):
 
 ![Alcance](https://github.com/maiteluisaa/projeto_pi3/blob/main/images/alcance.png)
+
+Para a aquisição de dados de humidade e temperatura foi adquirido o sensor FS200-SHT20, o mesmo possui precisão de humidade de 3% e de temperatura de 0,3°C.
