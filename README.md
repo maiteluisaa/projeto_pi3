@@ -21,4 +21,4 @@ Para a aquisição de dados de humidade e temperatura foi adquirido o sensor FS2
 
 ![Esquemático](https://github.com/maiteluisaa/projeto_pi3/blob/main/images/ESQUEMA.png)
 
-De forma resumida, os dados serão coletados pelos nós transmissores e enviados a nó receptor. O nó receptor enviará os dados via serial para um computador e o computador enviará os dados para a internet, ao banco de dados alocado no AWS.
+De forma resumida, os dados serão coletados pelos nós transmissores e enviados a nó receptor. O nó receptor enviará os dados via serial para um computador que fará o processamento da informação e o computador enviará os dados para a internet, ao banco de dados alocado no AWS. A ideia é apresentar os dados numa dashboard e ter disponível o histórico da informação dos meses anteriores.
